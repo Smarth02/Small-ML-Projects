@@ -1,0 +1,2 @@
+# Small-ML-Projects
+Various ML models that solve simple tasks. The primary goal is to implement the most famous Machine Learning algorithms using the Scikit-learn library. The Repo is a good starting point for every beginner who is taking their first steps in the ML field.
