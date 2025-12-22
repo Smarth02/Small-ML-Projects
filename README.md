@@ -3,5 +3,7 @@ Various ML models that solve simple tasks. The primary goal is to implement the 
 
 The First Project is Linear Regression.
 
-The next one is Logistic Regression.
+The Second Project is a Logistic Regression Model.
+
+
 
