@@ -7,3 +7,6 @@ The Second Project is a Logistic Regression Model.
 
 The Third Project is uploaded. It is about the Decision Tree and the Random Forest Algorithm.
 
+A Project file is missing. Upload it.
+
+Gradient Boosting Machines files uploaded.
