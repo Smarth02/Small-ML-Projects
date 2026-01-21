@@ -7,7 +7,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/) 
 
 
-Welcome to the Small Machine Learning Repo. Here, small Machine Learning (ML) models are implemented. Linear Regression, Random Forest, XGBoost and K-Means are just a portion of them. The models solve various tasks in a wide variety of areas. A Medical Cost Dataset is tackled with the goal of estimating the annual medical expenditures of every new customer. A rider's taxi fare is predicted in New York City via a Gradient Boosting Regressor. And more...
+Welcome to the Small Machine Learning Repo. Here, traditional Machine Learning (ML) models are implemented. Linear Regression, Random Forest, XGBoost and K-Means are just a portion of them. The models solve various tasks in a wide variety of areas. A Medical Cost Dataset is tackled with the goal of estimating the annual medical expenditures of every new customer. A rider's taxi fare is predicted in New York City via a Gradient Boosting Regressor. And more...
 
 The Repo is a good starting point for every beginner who takes their first steps in the ML field. In addition to the ML models implementation, the most common practices for data analysis and pre-processing are overviewed. The inspiration for the projects is the [Jovian ML with Python and Scikit-learn Beginner Course](https://www.youtube.com/watch?v=hDKCxebp88A). There, you could find a detailed explanation for some of the implemented models. Most of the datasets in the projects are taken from the Kaggle platform. It's worth trying to enrol in one of the competitions while you practice the ML models.
 
@@ -63,8 +63,11 @@ raw_df = pd.read_csv(train_csv)
 The next main section is the analysis of the data. In this section, the data features and the relation between them are explored. Different figures are created to explore the relations between the features of the data. On the basis of the data insights captured from the figures, a strategy is developed on how to tackle the ML problem. Let's take two examples from the notebooks. 
 
 **Figure 1**
-
-<img src='img/locations_vs_rainy_day_dataset.png' width='60%' />
+<figure>
+    <img src='img/locations_vs_rainy_day_dataset.png' width='60%' 
+         alt='Locations in Australia and the Rainy Days'/>
+    <figcaption>Location vs. Rainy Days in Australia.</figcaption>
+</figure>
 
 In the first figure, the relation between the rainy and non-rainy days is depicted. The data is taken from the Rain in Australia dataset and the **Logistic Regression Notebook Link it**. It shows the distribution of the positive and negative classes.
 
