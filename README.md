@@ -62,15 +62,15 @@ raw_df = pd.read_csv(train_csv)
 
 The next main section is the analysis of the data. In this section, the data features and the relation between them are explored. Different figures are created to explore the relations between the features of the data. On the basis of the data insights captured from the figures, a strategy is developed on how to tackle the ML problem. Let's take two examples from the notebooks. 
 
-**Figure 1**
+<p>
 <figure>
     <img src='img/locations_vs_rainy_day_dataset.png'
          alt='Locations in Australia and the Rainy Days'>
     <figcaptions>Location vs. Rainy Days in Australia.</figcaptions>
 </figure>
+</p>
 
-
-In the first figure, the relation between the rainy and non-rainy days is depicted. The data is taken from the Rain in Australia dataset and the **Logistic Regression Notebook Link it**. It shows the distribution of the positive and negative classes.
+In the first figure, the relation between the rainy and non-rainy days is depicted. The data is taken from the Rain in Australia dataset and the [Logistic Regression Notebook](https://github.com/krasvachev/Small-ML-Projects/blob/main/2_Logistic_Regression.ipynb). It shows the distribution of the positive and negative classes.
 
 **Figure 2**
 
