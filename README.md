@@ -3,13 +3,13 @@
 
 [![krasvachev](https://img.shields.io/badge/GitHub-krasvachev-181717.svg?style=flat&logo=github)](https://github.com/krasvachev)
 ![Static Badge](https://img.shields.io/badge/machine-learning-red)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas)(https://www.python.org/downloads/release/python-31212/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas)](https://www.python.org/downloads/release/python-31212/)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/) 
 
 
 Welcome to the Small Machine Learning Repo. Here, small Machine Learning (ML) models are implemented. Linear Regression, Random Forest, XGBoost and K-Means are just a portion of them. The models solve various tasks in a wide variety of areas. A Medical Cost Dataset is tackled with the goal of estimating the annual medical expenditures of every new customer. A rider's taxi fare is predicted in New York City via a Gradient Boosting Regressor. And more...
 
-The Repo is a good starting point for every beginner who takes their first steps in the ML field. In addition to the ML models implementation, the most common practices for data analysis and pre-processing can be found. The inspiration for the projects is the [Jovian ML with Python and Scikit-learn Beginner Course](https://www.youtube.com/watch?v=hDKCxebp88A). There, you could find a detailed explanation for some of the implemented models. Most of the datasets are taken from the Kaggle platform. It's worth trying to enrol in one of the competitions while you practice the ML models.
+The Repo is a good starting point for every beginner who takes their first steps in the ML field. In addition to the ML models implementation, the most common practices for data analysis and pre-processing are overviewed. The inspiration for the projects is the [Jovian ML with Python and Scikit-learn Beginner Course](https://www.youtube.com/watch?v=hDKCxebp88A). There, you could find a detailed explanation for some of the implemented models. Most of the datasets in the projects are taken from the Kaggle platform. It's worth trying to enrol in one of the competitions while you practice the ML models.
 
 
 
@@ -17,13 +17,13 @@ The Repo is a good starting point for every beginner who takes their first steps
 
 
 * **Python** - The backbone of the projects. The analyses, the data preparation and pre-processing, the model implementation, the visualisations and insights, all of them are done with Python Libraries. The most important of them are:
-* **Pandas** - Analyse and Prepare the Data
-* **Numpy** - Process the Data
-* **Scikit-learn** - Pre-processing the Data and Developing ML Models 
-* **Matplotlib** - Visualise the Data
-* **Seaborn** - Visualise the Data
-* **Plotly** - Visualise the Data via Interactive Plots
-* **Xgboost** - Implement Gradient Boosting Algorithm
+  * **Pandas** - Analyse and Prepare the Data
+  * **Numpy** - Process the Data
+  * **Scikit-learn** - Pre-processing the Data and Developing ML Models 
+  * **Matplotlib** - Visualise the Data
+  * **Seaborn** - Visualise the Data
+  * **Plotly** - Visualise the Data via Interactive Plots
+  * **Xgboost** - Implement Gradient Boosting Algorithm
 * **Jupyter Notebook** - The platform where the code was written
 ## The Notebooks
 
@@ -142,13 +142,6 @@ print(f"Test Loss: {loss}")
 
 Contributions are always welcome!
 
-
-
-## Badges
-[![krasvachev](https://img.shields.io/badge/GitHub-krasvachev-181717.svg?style=flat&logo=github)](https://github.com/krasvachev)
-![Static Badge](https://img.shields.io/badge/machine-learning-red)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas)(https://www.python.org/downloads/release/python-31212/)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/) 
 
 
 
