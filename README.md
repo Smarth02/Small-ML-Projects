@@ -66,15 +66,21 @@ The next main section is the analysis of the data. In this section, the data fea
 <figure>
     <img src='img/locations_vs_rainy_day_dataset.png'
          alt='Locations in Australia and the Rainy Days'>
-    <figcaptions>Location vs. Rainy Days in Australia.</figcaptions>
+    <figcaptions>Location vs. Rainy Days in Australia</figcaptions>
 </figure>
 </p>
 
 In the first figure, the relation between the rainy and non-rainy days is depicted. The data is taken from the Rain in Australia dataset and the [Logistic Regression Notebook](https://github.com/krasvachev/Small-ML-Projects/blob/main/2_Logistic_Regression.ipynb). It shows the distribution of the positive and negative classes.
 
-**Figure 2**
+<p>
+<figure>
+    <img src='img/sales_vs_customers_gbms_dataset.png'
+         alt='Sales vs Customers'>
+    <figcaptions>Sales vs Customers</figcaptions>
+</figure>
+</p>
 
-In the second figure, a `scatter plot` is given with the targets of the ML model (sales) and the number of customers. 
+In the second figure, a `scatter plot` is given with the sales targets column of the ML model and the number of customers. [XGBoost Notebook](https://github.com/krasvachev/Small-ML-Projects/blob/main/2_Logistic_Regression.ipynb) gives more detail about the model implementation and the dataset.
 
 ### Train and Test Split
 A crucial step in every ML project is to divide the data into a train and test set. Most of the time, the train set is further split into a train and a validation set. For example, the Rain in Australia dataset is divided into three sets before it is passed to the Logistic Regression model:
@@ -91,7 +97,7 @@ train_df.shape, val_df.shape, test_df.shape
 ### Pre-processing
 There is another important step in the ML model development - pre-processing the data. The data is manipulated in order to make it understandable for the ML algorithm. In most of the projects in the repo, imputing, scaling and encoding are applied. 
 
-Imputation is the process of adding missing values to the data. The following code illustrates implementation for the Decision Tree Model:
+Imputation is the process of adding missing values to the data. The following code illustrates implementation for the [Decision Tree Model](https://github.com/krasvachev/Small-ML-Projects/blob/main/3_Desicion_Tree_and_Random_Forest_Opt.ipynb):
 
 ```python
 from sklearn.impute import SimpleImputer
