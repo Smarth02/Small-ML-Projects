@@ -64,10 +64,11 @@ The next main section is the analysis of the data. In this section, the data fea
 
 **Figure 1**
 <figure>
-    <img src='img/locations_vs_rainy_day_dataset.png' width='60%' 
-         alt='Locations in Australia and the Rainy Days'/>
-    <figcaption>Location vs. Rainy Days in Australia.</figcaption>
+    <img src='img/locations_vs_rainy_day_dataset.png'
+         alt='Locations in Australia and the Rainy Days'>
+    <figcaptions>Location vs. Rainy Days in Australia.</figcaptions>
 </figure>
+
 
 In the first figure, the relation between the rainy and non-rainy days is depicted. The data is taken from the Rain in Australia dataset and the **Logistic Regression Notebook Link it**. It shows the distribution of the positive and negative classes.
 
