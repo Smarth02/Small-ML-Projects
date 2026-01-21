@@ -156,11 +156,9 @@ print(f"Test Loss: {loss}")
 Contributions are always welcome!
 
 
-
+<a href="#top">Back to top</a>
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-<a href="#top">Back to top</a>
