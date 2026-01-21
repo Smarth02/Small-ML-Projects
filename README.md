@@ -80,7 +80,7 @@ In the first figure, the relation between the rainy and non-rainy days is depict
 </figure>
 </p>
 
-In the second figure, a `scatter plot` is given with the sales targets column of the ML model and the number of customers. [XGBoost Notebook](https://github.com/krasvachev/Small-ML-Projects/blob/main/2_Logistic_Regression.ipynb) gives more detail about the model implementation and the dataset.
+In the second figure, a `scatter plot` is given with the sales targets column of the ML model and the number of customers. [XGBoost Notebook](https://github.com/krasvachev/Small-ML-Projects/blob/10f38450ce3c74aa745ec145b8227c716c8aee81/4_XGBoost.ipynb) gives more detail about the model implementation and the dataset.
 
 ### Train and Test Split
 A crucial step in every ML project is to divide the data into a train and test set. Most of the time, the train set is further split into a train and a validation set. For example, the Rain in Australia dataset is divided into three sets before it is passed to the Logistic Regression model:
