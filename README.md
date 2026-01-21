@@ -19,7 +19,7 @@ The Repo is a good starting point for every beginner who takes their first steps
 * **Python** - The backbone of the projects. The analyses, the data preparation and pre-processing, the model implementation, the visualisations and insights, all of them are done with Python Libraries. The most important of them are:
   * **Pandas** - Analyse and Prepare the Data
   * **Numpy** - Process the Data
-  * **Scikit-learn** - Pre-processing the Data and Developing ML Models 
+  * **Scikit-learn** - Pre-process the Data and Develop ML Models 
   * **Matplotlib** - Visualise the Data
   * **Seaborn** - Visualise the Data
   * **Plotly** - Visualise the Data via Interactive Plots
@@ -38,6 +38,18 @@ The Repo is a good starting point for every beginner who takes their first steps
 >4. Pre-processing
 >
 >5. ML model
+
+The notebook for each ML model contains five main sections:
+
+1. Import and Process the Data
+
+2. Analyze the Dataset
+
+3. Train and Test Split
+
+4. Pre-processing
+
+5. ML model
 
 There are also bonus sections for some of the models. Two of them should be mentioned. The first bonus section is the Feature Engineering. Feature engineering was implemented to improve the model's performance. The second section is the Base models. Sometimes, base models were developed as a starting point for the analysis.
 
