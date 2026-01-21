@@ -43,13 +43,13 @@ The notebook for each ML model contains five main sections:
 
 1. [Import and Process the Data](#Import-and-Process-the-Data)
 
-2. Analyze the Dataset
+2. [Analyze the Dataset](#Analyze-the-Dataset)
 
-3. Train and Test Split
+3. [Train and Test Split](#Train-and-Test-Split)
 
-4. Pre-processing
+4. [Pre-processing](#Pre-processing)
 
-5. ML model
+5. [ML model](ML-model)
 
 There are also bonus sections for some of the models. Two of them should be mentioned. The first bonus section is the Feature Engineering. Feature engineering was implemented to improve the model's performance. The second section is the Base models. Sometimes, base models were developed as a starting point for the analysis.
 
