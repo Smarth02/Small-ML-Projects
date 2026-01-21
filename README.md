@@ -27,29 +27,18 @@ The Repo is a good starting point for every beginner who takes their first steps
 * **Jupyter Notebook** - The platform where the code was written
 ## The Notebooks
 
->The notebook for each ML model contains five main sections:
->
->1. Import and Process the Data
->
->2. Analyze the Dataset
->
->3. Train and Test Split
->
->4. Pre-processing
->
->5. ML model
 
 The notebook for each ML model contains five main sections:
 
 1. [Import and Process the Data](#Import-and-Process-the-Data)
 
-2. [Analyze the Dataset](#Analyze-the-Dataset)
+2. [Analyze and Visualize the Data](#Analyze-and-Visualize-the-Data)
 
 3. [Train and Test Split](#Train-and-Test-Split)
 
 4. [Pre-processing](#Pre-processing)
 
-5. [ML model](ML-model)
+5. [ML model](#ML-model)
 
 There are also bonus sections for some of the models. Two of them should be mentioned. The first bonus section is the Feature Engineering. Feature engineering was implemented to improve the model's performance. The second section is the Base models. Sometimes, base models were developed as a starting point for the analysis.
 
@@ -57,7 +46,7 @@ Below, a brief overview will be given for the five main sections.
 
 ### Import and Process the Data
 
-At the beginning of each ML project, the key libraries are imported. Afterwards, the file with the data is read and the data is prepared for further analysis. A code snippet from **Logistic Regression Notebook** can be seen below:
+At the beginning of each ML project, the key libraries are imported. Afterwards, the file with the data is read and the data is prepared for further analysis. A code snippet from [Logistic Regression Notebook](https://github.com/krasvachev/Small-ML-Projects/blob/main/2_Logistic_Regression.ipynb) can be seen below:
 
 ```python
 import os
