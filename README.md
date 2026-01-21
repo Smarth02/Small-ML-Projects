@@ -12,3 +12,5 @@ A Project file is missing. Upload it.
 Gradient Boosting Machines files uploaded.
 
 Unsupervised Learning File is Uploaded.
+
+Fixed bugs. Big Project 2 Uploaded.
