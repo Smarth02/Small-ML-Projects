@@ -1,6 +1,11 @@
 
 # Small Machine Learning Projects
 
+[![krasvachev](https://img.shields.io/badge/GitHub-krasvachev-181717.svg?style=flat&logo=github)](https://github.com/krasvachev)
+![Static Badge](https://img.shields.io/badge/machine-learning-red)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas)(https://www.python.org/downloads/release/python-31212/)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/) 
+
 
 Welcome to the Small Machine Learning Repo. Here, small Machine Learning (ML) models are implemented. Linear Regression, Random Forest, XGBoost and K-Means are just a portion of them. The models solve various tasks in a wide variety of areas. A Medical Cost Dataset is tackled with the goal of estimating the annual medical expenditures of every new customer. A rider's taxi fare is predicted in New York City via a Gradient Boosting Regressor. And more...
 
@@ -142,7 +147,7 @@ Contributions are always welcome!
 ## Badges
 [![krasvachev](https://img.shields.io/badge/GitHub-krasvachev-181717.svg?style=flat&logo=github)](https://github.com/krasvachev)
 ![Static Badge](https://img.shields.io/badge/machine-learning-red)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas)(https://www.python.org/downloads/release/python-31212/)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/) 
 
 
