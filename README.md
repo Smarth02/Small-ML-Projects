@@ -41,7 +41,7 @@ The Repo is a good starting point for every beginner who takes their first steps
 
 The notebook for each ML model contains five main sections:
 
-1. [Import and Process the Data](#Import%and%Process%the%Data)
+1. [Import and Process the Data](#Import-and-Process-the-Data)
 
 2. Analyze the Dataset
 
